@@ -31,7 +31,7 @@ Restaurant Orders Analysis Using Python to identify most popular dishes, busiest
 - Busiest hours during week day - 12 pm, 1 pm, 5 pm, 6 pm
 
 ### Opportunities
-- Discount can be offered on some menu items at 8 pm to get in more customers
+- Discount can be offered on some menu items at 9 pm to get in more customers
 - Cut down on some of the least popular items like Potstickers and Gaucamole or may be add them as appetizers and sell them in combination with other popular dishes
   
   ### References
